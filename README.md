@@ -6,6 +6,7 @@ Used ReactJs on the frontend and NodeJs on the backend. MongoDb with Mongoose fo
 - Signin Page
 - Dashboard Page
 - Send Money Page
+  
 To run the Project locally, run the following commands:
 ```
 git clone repo https://github.com/savinyu/Payment_FullStack_WebApp
